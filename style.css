@@ -86,3 +86,19 @@ h1 {
 #five {
     color: chartreuse;
 }
+
+ul {
+    color: rosybrown;
+}
+
+.star {
+    color: yellow;
+}
+
+#wars {
+    color: blue;
+}
+
+.list-div {
+    border: 2px solid black;
+}
