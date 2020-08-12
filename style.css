@@ -1,0 +1,88 @@
+body {
+    font-family: 'Times New Roman', Arial;
+    background-color: lightslategrey;
+}
+
+h2, p, .readme-wrapper {
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: teal;
+}
+
+span {
+    font-weight: bold;
+    color: tomato;
+}
+
+.boxes {
+    margin: 40px;
+    padding: 15px;
+    border: solid 10px brown;
+    border-radius: 15px;
+    width: 30em;
+    display: block;
+}
+
+#box1 {
+    background-color: chartreuse;
+}
+
+#box2 {
+    background-color: chocolate;
+}
+
+#box3 {
+    background-color: cornflowerblue;
+}
+
+#box4 {
+    background-color: royalblue;
+}
+
+.yeast-div {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: sienna;
+    position: relative;
+    top: 4em;
+}
+
+h1 {
+    color: steelblue;
+}
+
+.original {
+    color: deeppink;
+}
+
+.additional {
+    color: deepskyblue;
+}
+
+#one {
+    color: black;
+}
+
+#two {
+    color: blue;
+}
+
+#three {
+    color: blueviolet;
+}
+
+#four {
+    color: cadetblue;
+}
+
+#five {
+    color: chartreuse;
+}
